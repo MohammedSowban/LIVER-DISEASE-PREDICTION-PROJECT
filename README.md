@@ -38,7 +38,7 @@ The goal of this project is to predict whether a patient is likely to have a liv
 
 ## Results
 - Accuracy: 76%
-- F1 Score: xx%
+- F1 Score: 84%
 
 ## Screenshots
 <img src="image dashboard 1.png" width="800">
