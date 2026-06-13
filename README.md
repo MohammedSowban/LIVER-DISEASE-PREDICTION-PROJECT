@@ -41,8 +41,8 @@ The goal of this project is to predict whether a patient is likely to have a liv
 - F1 Score: xx%
 
 ## Screenshots
-<img src="images/dashboard.png" width="800">
-<img src="images/dashboard.png" width="800">
+<img src="image dashboard 1.png" width="800">
+<img src="image dashboard.png" width="800">
 
 
 ## Future Improvements
